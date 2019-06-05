@@ -1,4 +1,5 @@
 import React from 'react';
+import globe from '../images/hd0941.mov';
 import '../styles/Welcome.css'
 
 function Welcome() {
@@ -13,6 +14,9 @@ function Welcome() {
           </article>
         </div>
       </body>
+      <video class="videoLayout" autoPlay loop muted>
+        <source src={globe} type="video/mp4" />
+      </video>
     </div>
   )
 }

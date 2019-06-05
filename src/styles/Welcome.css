@@ -1,6 +1,5 @@
 html {
   background-color: rgba(0, 0, 0, 0.9);
-	background-image: url("../images/hd0941.mov");
   font-family: "Avenir Next", "Avenir", sans-serif;
 }
 
@@ -55,6 +54,18 @@ a:hover {
 	/* // font-weight: 750; */
 	text-decoration: underline;
 	/* // text-decoration-color: white; */
+}
+
+.videoLayout {
+	position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+	z-index: -100;
+	background-repeat: no-repeat;
 }
 
 /* IPHONE XS MAX */
