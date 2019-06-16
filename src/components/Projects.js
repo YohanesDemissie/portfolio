@@ -46,7 +46,7 @@ function Projects() {
             spending less time on the phone and more time enjoying each others company, enjoy the game and live in the
             moment
       </p>
-          <a target="#" href="demidemissie.com/my-meme" class="checkout-cart-link">Public Link Coming Soon</a>
+          <a target="#" href="http://create-memes.azurewebsites.net/" class="checkout-cart-link">Click Here to Create Your Meme</a>
         </section>
       </div>
 
